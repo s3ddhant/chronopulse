@@ -1,0 +1,6 @@
+{
+  "name": "ChronoPulse - Streaming Telemetry Anomaly Detector",
+  "description": "Academic-grade real-time streaming telemetry anomaly detector and incident state machine with online Welford variance and Median Absolute Deviation adaptive envelope.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
